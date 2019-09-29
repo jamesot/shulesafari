@@ -1,0 +1,32 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="Hud2.png" x="0" y="319" width="625" height="90"/>
+	<SubTexture name="Mutemusicbnt2.png" x="917" y="947" width="72" height="71"/>
+	<SubTexture name="bgPause2.png" x="1108" y="0" width="479" height="584"/>
+	<SubTexture name="bgTuto2.png" x="0" y="801" width="333" height="151"/>
+	<SubTexture name="bgWin2.png" x="627" y="319" width="479" height="626"/>
+	<SubTexture name="bg_category2.png" x="642" y="0" width="221" height="97"/>
+	<SubTexture name="bg_question2.png" x="0" y="411" width="601" height="388"/>
+	<SubTexture name="bnt_continue2.png" x="642" y="99" width="219" height="79"/>
+	<SubTexture name="bnt_delete2.png" x="642" y="180" width="219" height="79"/>
+	<SubTexture name="bnt_home2.png" x="865" y="0" width="80" height="80"/>
+	<SubTexture name="bnt_next2.png" x="863" y="99" width="218" height="79"/>
+	<SubTexture name="bnt_show2.png" x="863" y="180" width="218" height="79"/>
+	<SubTexture name="creditsBnt2.png" x="616" y="947" width="75" height="74"/>
+	<SubTexture name="decoration_win2.png" x="0" y="0" width="640" height="317"/>
+	<SubTexture name="exit_bnt2.png" x="693" y="947" width="73" height="74"/>
+	<SubTexture name="ghost2.png" x="947" y="0" width="54" height="83"/>
+	<SubTexture name="hand2.png" x="1549" y="832" width="118" height="111"/>
+	<SubTexture name="levelsbnt2.png" x="1583" y="586" width="101" height="99"/>
+	<SubTexture name="logo2.png" x="1108" y="586" width="473" height="244"/>
+	<SubTexture name="moregames_bnt2.png" x="768" y="947" width="73" height="74"/>
+	<SubTexture name="musicbnt2.png" x="843" y="947" width="72" height="71"/>
+	<SubTexture name="pausebnt2.png" x="1589" y="443" width="98" height="98"/>
+	<SubTexture name="playbtn2.png" x="1108" y="832" width="177" height="176"/>
+	<SubTexture name="replaybnt2.png" x="1583" y="687" width="101" height="99"/>
+	<SubTexture name="resumebnt2.png" x="1426" y="832" width="121" height="123"/>
+	<SubTexture name="spark2.png" x="0" y="954" width="42" height="47"/>
+	<SubTexture name="star2.png" x="1287" y="832" width="137" height="132"/>
+	<SubTexture name="star_levels2.png" x="44" y="954" width="33" height="33"/>
+	<SubTexture name="witch_light2.png" x="335" y="801" width="279" height="191"/>
+	<SubTexture name="witch_menu2.png" x="1589" y="0" width="330" height="441"/>
+</TextureAtlas>

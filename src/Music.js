@@ -1,0 +1,1 @@
+var Music = {enableMisic: true, music: null};
