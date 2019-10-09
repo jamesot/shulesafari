@@ -123,15 +123,41 @@ function load_words(str1) {
 }
 function save_words(vect_words) {
     var str = "";
+   
     for (var i = 0; i < words.length; i++) {
-        str += "" + vect_words[i].category;
-        str += ",";
-        str += "" + vect_words[i].question;
-        str += ",";
-        str += "" + vect_words[i].response;
-        str += ",";
-        str += "" + vect_words[i].choices;
-        if (i < words.length - 1)str += ","
+
+        // Checking for undefined. App was crashing if it were undefined.
+        if (vect_words[i].category !== null) {
+            category = vect_words[i].category;
+        }
+
+        if (vect_words[i].grade !== null) {
+            grade = vect_words[i].grade;
+        }
+
+        // Only saving the chosen words based on URL parameters
+        if (getUrlParams()["category"] === category && getUrlParams()["grade"] === grade) {
+
+            str += "" + vect_words[i].category;
+            str += ",";
+            str += "" + vect_words[i].question;
+            str += ",";
+            str += "" + vect_words[i].response;
+            str += ",";
+            str += "" + vect_words[i].choices;
+            if (i < words.length - 1)str += ","
+        }
     }
+    console.log(str);
     Save_setItem("WitchCrossward_words", str);
 }
+
+// Function that pics all the parameters form URL
+function getUrlParams() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,    
+    function(m,key,value) {
+      vars[key] = value;
+    });
+    return vars;
+  }

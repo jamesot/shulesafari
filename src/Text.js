@@ -22,455 +22,543 @@ words = [
     {   category: 'Photo',
         question: '0',
         response: 'Coffee',
-        choices: 'mpliyuwn'
+        choices: 'mpliyuwn',
+        grade: '2'
     },
 
     {   category: 'Vocabulary',
         question: 'Opposite of Abnormal',
         response: 'Normal',
-        choices: 'sipedulj'
+        choices: 'sipedulj',
+        grade: '2'
     },
 
     {   category: 'Nature',
         question: 'King of the jungle',
         response: 'Lion',
-        choices: 'goyrebwxtm'
+        choices: 'goyrebwxtm',
+        grade: '2'
     },
 
     {   category: 'Life',
         question: 'Last meal of the day',
         response: 'Dinner',
-        choices: 'brakfsch'
+        choices: 'brakfsch',
+        grade: '2'
     },
 
 
     {   category: 'General',
         question: 'Artist who painted Mona Lisa',
         response: 'DaVinci',
-        choices: 'jsqnitx'
+        choices: 'jsqnitx',
+        grade: '2'
     },
 
     {   category: 'Vocabulary',
         question: 'Opposite of Good',
         response: 'Bad',
-        choices: 'unevilrotpc'
+        choices: 'unevilrotpc',
+        grade: '2'
     },
 
     {   category: 'Famous For',
         question: 'Louvre\nMiserables\nZidane\nEiffel Tower',
         response: 'France',
-        choices: 'piagtqum'
+        choices: 'piagtqum',
+        grade: '2'
     },
 
 
     {   category: 'General',
         question: 'European currency',
         response: 'Euro',
-        choices: 'poundstfkb'
+        choices: 'poundstfkb',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Needed to travel to a foreign country',
         response: 'Passport',
-        choices: 'lneijt'
+        choices: 'lneijt',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Product used to brush your teeth',
         response: 'Toothpaste',
-        choices: 'dmgw'
+        choices: 'dmgw',
+        grade: '2'
     },
 
 
     {   category: 'Life',
         question: 'Men wear it in a ceremony',
         response: 'Suit',
-        choices: 'almsjhnrtx'
+        choices: 'almsjhnrtx',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Covered by shoes',
         response: 'Socks',
-        choices: 'qpxortsky'
+        choices: 'qpxortsky',
+        grade: '2'
     },
     /*{   category: 'Life',
         question: 'Last meal of the day',
         response: 'Diner',
-        choices: 'brakfstch'
+        choices: 'brakfstch',
+        grade: '2'
     },*/
     {   category: 'Life',
         question: 'A person whose occupation is making or altering clothes',
         response: 'Tailor',
-        choices: 'suklajbz'
+        choices: 'suklajbz',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'The hair growing on the upper lip',
         response: 'Moustache',
-        choices: 'suklj'
+        choices: 'suklj',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'How do we call a father?',
         response: 'Dad',
-        choices: 'dypopamarfx'
+        choices: 'dypopamarfx',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Style of facial hair incorporating hair on a man\'s chin but not his cheeks',
         response: 'Goatee',
-        choices: 'monkschw'
+        choices: 'monkschw',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'First meal of the day',
         response: 'Breakfast',
-        choices: 'lunch'
+        choices: 'lunch',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'A respiratory condition causing difficulty in breathing',
         response: 'Asthma',
-        choices: 'condlugz'
+        choices: 'condlugz',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'A boy\'s name with 3 letters',
         response: 'Bob',
-        choices: 'jnilkatcfwr'
+        choices: 'jnilkatcfwr',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'A girl\'s name with 3 letters',
         response: 'Eva',
-        choices: 'puolaritxdg'
+        choices: 'puolaritxdg',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'A boy\'s name with 4 letters',
         response: 'Mark',
-        choices: 'vzsjdycfwi'
+        choices: 'vzsjdycfwi',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'A girl\'s name with 4 letters',
         response: 'Mary',
-        choices: 'jillzwfgeh'
+        choices: 'jillzwfgeh',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'A boy\'s name with 5 letters',
         response: 'David',
-        choices: 'qlbruckon'
+        choices: 'qlbruckon',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'A girl\'s name with 5 letters',
         response: 'Wendy',
-        choices: 'jblkstuio'
+        choices: 'jblkstuio',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Used for heating food',
         response: 'Microwave',
-        choices: 'furyw'
+        choices: 'furyw',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Used to cut fruits and vegetables',
         response: 'Knife',
-        choices: 'wztyopuma'
+        choices: 'wztyopuma',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'The name of the famous fish in the animated movie "Finding Nemo"',
         response: 'Nemo',
-        choices: 'judygillfz'
+        choices: 'judygillfz',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Very fine piece of metal used in sewing',
         response: 'Needle',
-        choices: 'morfqubi'
+        choices: 'morfqubi',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Playstation rival',
         response: 'Xbox',
-        choices: 'gamcubewii'
+        choices: 'gamcubewii',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Used for cooking and heating food',
         response: 'Oven',
-        choices: 'blastfirez'
+        choices: 'blastfirez',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Part of the human foot',
         response: 'Toe',
-        choices: 'dnailspurxy'
+        choices: 'dnailspurxy',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Part of the human hand',
         response: 'finger',
-        choices: 'nailshjb'
+        choices: 'nailshjb',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'One of the months of the year',
         response: 'December',
-        choices: 'jankqu'
+        choices: 'jankqu',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'One of the months of the year',
         response: 'January',
-        choices: 'novlikr'
+        choices: 'novlikr',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'One of the months of the year',
         response: 'May',
-        choices: 'oprlgfwzurh'
+        choices: 'oprlgfwzurh',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'One of the months of the year',
         response: 'February',
-        choices: 'oprlgf'
+        choices: 'oprlgf',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'One of the days of the week',
         response: 'Friday',
-        choices: 'wensjukv'
+        choices: 'wensjukv',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'One of the days of the week',
         response: 'Monday',
-        choices: 'thursxiu'
+        choices: 'thursxiu',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'One of the days of the week',
         response: 'Wednesday',
-        choices: 'tublq'
+        choices: 'tublq',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Coldest season of the year',
         response: 'Winter',
-        choices: 'blacktuz'
+        choices: 'blacktuz',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Warmest season of the year',
         response: 'Summer',
-        choices: 'qpingvwl'
+        choices: 'qpingvwl',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Absorb liquid and used for washing and cleaning',
         response: 'Sponge',
-        choices: 'almytrkj'
+        choices: 'almytrkj',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'People wear it before going to sleep',
         response: 'Pyjamas',
-        choices: 'ndleijk'
+        choices: 'ndleijk',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Light sandal of plastic or rubber with a thong between the big and second toe',
         response: 'FlipFlop',
-        choices: 'fydrmn'
+        choices: 'fydrmn',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Found in a fast food menu',
         response: 'Pizza',
-        choices: 'hmbrgtcos'
+        choices: 'hmbrgtcos',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Found in a fast food menu',
         response: 'Hamburger',
-        choices: 'tcosy'
+        choices: 'tcosy',
+        grade: '2'
     },
     {   category: 'Life',
         question: 'Found in a fast food menu',
         response: 'Hamburger',
-        choices: 'tcosy'
+        choices: 'tcosy',
+        grade: '2'
     },
 
 
     {   category: 'Nature',
         question: 'Animal responsible for the most deaths among humans',
         response: 'Mosquito',
-        choices: 'harkln'
+        choices: 'harkln',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Tall and green',
         response: 'Tree',
-        choices: 'zsabklmrtv'
+        choices: 'zsabklmrtv',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Fastest land animal',
         response: 'Cheetah',
-        choices: 'gzjlurb'
+        choices: 'gzjlurb',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'The study of snakes',
         response: 'Ophiology',
-        choices: 'zplfq'
+        choices: 'zplfq',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Big brother of an alligator',
         response: 'Crocodile',
-        choices: 'brmpj'
+        choices: 'brmpj',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'In some languages a pineapple is also called ___',
         response: 'Ananas',
-        choices: 'hirfvbyu'
+        choices: 'hirfvbyu',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'A bear native to south central China',
         response: 'Panda',
-        choices: 'berkoljhg'
+        choices: 'berkoljhg',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'A large extinct elephant of the Pleistocene epoch',
         response: 'Mammoth',
-        choices: 'fkdjgue'
+        choices: 'fkdjgue',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'The obscuration of the light of the sun by the intervention of the moon between it and a point on the earth',
         response: 'Eclipse',
-        choices: 'solarun'
+        choices: 'solarun',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Heavy silvery-white metal which is liquid at ordinary temperatures',
         response: 'Mercury',
-        choices: 'stalzkn'
+        choices: 'stalzkn',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'A small animal that can last longer than a camel without drinking water',
         response: 'Rat',
-        choices: 'cabgirafemz'
+        choices: 'cabgirafemz',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Uncontrolled division of abnormal cells in a part of the body',
         response: 'Cancer',
-        choices: 'disfrxgu'
+        choices: 'disfrxgu',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Microscopic grains discharged from the male part of a flower',
         response: 'Pollen',
-        choices: 'afvsgrwh'
+        choices: 'afvsgrwh',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Where does a river end?',
         response: 'Sea',
-        choices: 'pondliyzthu'
+        choices: 'pondliyzthu',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Another name for a Medusa',
         response: 'Jellyfish',
-        choices: 'pukot'
+        choices: 'pukot',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Something that people want and need but escape from when it comes',
         response: 'Rain',
-        choices: 'toxcmudsaw'
+        choices: 'toxcmudsaw',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Insect with 8 legs',
         response: 'Spider',
-        choices: 'bugroach'
+        choices: 'bugroach',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Animal who loves eating bananas',
         response: 'Monkey',
-        choices: 'grlachpm'
+        choices: 'grlachpm',
+        grade: '2'
     },
     {   category: 'Nature',
         question: '___ in the day and moon at night',
         response: 'Sun',
-        choices: 'raidyckopve'
+        choices: 'raidyckopve',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Sound made by a dog',
         response: 'Barking',
-        choices: 'woofsax'
+        choices: 'woofsax',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Flying insect',
         response: 'Bee',
-        choices: 'sabugtrwxof'
+        choices: 'sabugtrwxof',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Thick cloud of tiny water droplets suspended in the atmosphere that restricts visibility',
         response: 'Fog',
-        choices: 'dbeaplnsywx'
+        choices: 'dbeaplnsywx',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'The phase of the moon in which its whole disc is illuminated',
         response: 'Full',
-        choices: 'mvcjopqurt'
+        choices: 'mvcjopqurt',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Slow and lazy animal',
         response: 'Sloth',
-        choices: 'turekaavw'
+        choices: 'turekaavw',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Animal that builds dams',
         response: 'Beaver',
-        choices: 'csmazegf'
+        choices: 'csmazegf',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Country most at risk of a deadly volcanic eruption',
         response: 'Indonesia',
-        choices: 'trepf'
+        choices: 'trepf',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'A panda\'s daily diet consists almost entirely of what plant',
         response: 'Bamboo',
-        choices: 'frizwogl'
+        choices: 'frizwogl',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Animal with the largest ears',
         response: 'Elephant',
-        choices: 'gorilw'
+        choices: 'gorilw',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'How many hearts does an octopus have ?',
         response: 'Three',
-        choices: 'fouvixnna'
+        choices: 'fouvixnna',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Animal that sleeps around 22 hours each day',
         response: 'Koala',
-        choices: 'sothuypnd'
+        choices: 'sothuypnd',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Polar bears feed mainly on what animal ?',
         response: 'Seal',
-        choices: 'duckhrpngi'
+        choices: 'duckhrpngi',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'The fastest fish in the Ocean',
         response: 'Sailfish',
-        choices: 'hrkwed'
+        choices: 'hrkwed',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Animal that was rumored to bury its head in the sand when frightened',
         response: 'Ostrich',
-        choices: 'dgamnky'
+        choices: 'dgamnky',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Bird with a long sharp beak that it hammers repeatedly into wood in search of insects',
         response: 'Woodpecker',
-        choices: 'lsta'
+        choices: 'lsta',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'The animal that is known as the ship of the desert',
         response: 'Camel',
-        choices: 'qportwhan'
+        choices: 'qportwhan',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Sweet and fleshy product of a tree',
         response: 'Fruit',
-        choices: 'vegeablsf'
+        choices: 'vegeablsf',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Sudden and violent shaking of the ground',
         response: 'Earthquake',
-        choices: 'jobs'
+        choices: 'jobs',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Rounded protuberance found on the back of a camel',
         response: 'Hump',
-        choices: 'blockgrave'
+        choices: 'blockgrave',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Sound made by a bear',
         response: 'Growl',
-        choices: 'hatchlytz'
+        choices: 'hatchlytz',
+        grade: '2'
     },
     {   category: 'Nature',
         question: 'Sound made by a duck',
         response: 'Quack',
-        choices: 'wsergnjil'
+        choices: 'wsergnjil',
+        grade: '2'
     },
 
 
@@ -478,72 +566,86 @@ words = [
     {   category: 'Complete\nProverb',
         question: 'Two ___ don\'t make a right',
         response: 'Wrongs',
-        choices: 'pojhtknd'
+        choices: 'pojhtknd',
+        grade: '2'
     },
     {   category: 'Complete\nProverb',
         question: 'Better late than ___',
         response: 'Never',
-        choices: 'mazasqimu'
+        choices: 'mazasqimu',
+        grade: '2'
     },
     {   category: 'Complete\nProverb',
         question: 'A picture is worth a ___ words',
         response: 'Thousand',
-        choices: 'vlembi'
+        choices: 'vlembi',
+        grade: '2'
     },
     {   category: 'Complete\nProverb',
         question: 'Innocent until proven ___',
         response: 'Guilty',
-        choices: 'convakwb'
+        choices: 'convakwb',
+        grade: '2'
     },
     {   category: 'Complete\nProverb',
         question: 'The early bird catches the ___',
         response: 'Worm',
-        choices: 'mustrazexl'
+        choices: 'mustrazexl',
+        grade: '2'
     },
     {   category: 'Complete\nProverb',
         question: 'Keep your friends close and your ___ closer',
         response: 'Enemies',
-        choices: 'adolflp'
+        choices: 'adolflp',
+        grade: '2'
     },
     {   category: 'Complete\nProverb',
         question: 'Don\'t bite the ___ that feeds you',
         response: 'Hand',
-        choices: 'mouthpersl'
+        choices: 'mouthpersl',
+        grade: '2'
     },
     {   category: 'Complete\nProverb',
         question: 'You can\'t judge a ___ by its cover',
         response: 'Book',
-        choices: 'humanemfzg'
+        choices: 'humanemfzg',
+        grade: '2'
     },
     {   category: 'Complete\nProverb',
         question: 'Necessity is the mother of ___',
         response: 'Invention',
-        choices: 'alscc'
+        choices: 'alscc',
+        grade: '2'
     },
     {   category: 'Complete\nProverb',
         question: 'Practice makes ___',
         response: 'Perfect',
-        choices: 'goodaws'
+        choices: 'goodaws',
+        grade: '2'
     },
     {   category: 'Who said?',
         question: 'I have not failed. I\'ve just found 10000 ways that won\'t work',
         response: 'Edison',
-        choices: 'estnbell'
+        choices: 'estnbell',
+        grade: '2'
     },
     {   category: 'Albert\nEinstein',
         question: 'Life is like riding a bicycle. To keep your balance you must keep ___',
         response: 'Moving',
-        choices: 'calmedup'
+        choices: 'calmedup',
+        grade: '2'
     },
     {   category: 'Who said?',
         question: 'Imagination is more important than knowledge',
         response: 'Einstein',
-        choices: 'hacprx'
+        choices: 'hacprx',
+        grade: '2'
     },
     {   category: 'Who said?',
         question: 'Live as if you were to die tomorrow. Learn as if you were to live forever',
         response: 'Gandhi',
-        choices: 'htibwrel'
+        choices: 'htibwrel',
+        grade: '2'
     },
 
 
@@ -551,32 +653,38 @@ words = [
     {   category: 'Soccer',
         question: '2016 Ballon d\'or winner',
         response: 'Ronaldo',
-        choices: 'messibg'
+        choices: 'messibg',
+        grade: '2'
     },
     {   category: 'Soccer',
         question: 'Team holding the UEFA Champions League cups record',
         response: 'RealMadrid',
-        choices: 'cnbh'
+        choices: 'cnbh',
+        grade: '2'
     },
     {   category: 'Soccer',
         question: 'Brazilian legendary player considered the best ever',
         response: 'Pele',
-        choices: 'donamessit'
+        choices: 'donamessit',
+        grade: '2'
     },
     {   category: 'Soccer',
         question: 'Name of the derby match between Real Madrid and Barcelona',
         response: 'Clasico',
-        choices: 'holpbzu'
+        choices: 'holpbzu',
+        grade: '2'
     },
     {   category: 'Basketball',
         question: 'NBA and Chicago Bulls legendary player',
         response: 'Jordan',
-        choices: 'lryweikb'
+        choices: 'lryweikb',
+        grade: '2'
     },
     {   category: 'Sports',
         question: 'First city that hosted the Olympics',
         response: 'Athens',
-        choices: 'londopar'
+        choices: 'londopar',
+        grade: '2'
     },
 
 
@@ -584,377 +692,452 @@ words = [
     {   category: 'General',
         question: 'What does the Statue of Liberty hold in her right hand ?',
         response: 'Torch',
-        choices: 'xblasvikp'
+        choices: 'xblasvikp',
+        grade: '2'
     },
     {   category: 'General',
         question: 'In which country would you find the Panama Canal ?',
         response: 'Panama',
-        choices: 'cubshtii'
+        choices: 'cubshtii',
+        grade: '2'
     },
     /*{   category: 'General',
         question: 'Artist who painted Mona Lisa',
         response: 'DaVinci',
-        choices: 'jsqnitx'
+        choices: 'jsqnitx',
+        grade: '2'
     },*/
     {   category: 'General',
         question: 'Famous prize given to award people who achieved advances in a specific field',
         response: 'Nobel',
-        choices: 'lryweikbs'
+        choices: 'lryweikbs',
+        grade: '2'
     },
     {   category: 'General',
         question: 'One of the highest mountains in the world above sea level',
         response: 'Everest',
-        choices: 'hmlyago'
+        choices: 'hmlyago',
+        grade: '2'
     },
     {   category: 'General',
         question: 'International distress signal indicating that help is needed',
         response: 'Sos',
-        choices: 'azertyqwvui'
+        choices: 'azertyqwvui',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Measuring unit of energy',
         response: 'Joule',
-        choices: 'whkcnoepi'
+        choices: 'whkcnoepi',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Expel air from the lungs with a sudden sharp sound. Generally when a person is sick or smokes',
         response: 'Cough',
-        choices: 'breatpixq'
+        choices: 'breatpixq',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Biggest planet in our solar system',
         response: 'Jupiter',
-        choices: 'marslod'
+        choices: 'marslod',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Comes before thunder',
         response: 'Lightning',
-        choices: 'sumra'
+        choices: 'sumra',
+        grade: '2'
     },
     {   category: 'General',
         question: 'In the head',
         response: 'Eye',
-        choices: 'nosmothzcxp'
+        choices: 'nosmothzcxp',
+        grade: '2'
     },
     {   category: 'General',
         question: 'A state of feeling sad desperate and without the mood to do anything',
         response: 'Depression',
-        choices: 'scdu'
+        choices: 'scdu',
+        grade: '2'
     },
     {   category: 'General',
         question: 'A military stronghold',
         response: 'Fortress',
-        choices: 'caslvw'
+        choices: 'caslvw',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Chairman and co-founder of Facebook',
         response: 'Zuckerberg',
-        choices: 'mats'
+        choices: 'mats',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Co-founder of Microsoft',
         response: 'BillGates',
-        choices: 'josve'
+        choices: 'josve',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Power to unilaterally stop an official action in the UN security council',
         response: 'Veto',
-        choices: 'blckusrfwq'
+        choices: 'blckusrfwq',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Inventor of the telephone',
         response: 'Bell',
-        choices: 'grnstiwzam'
+        choices: 'grnstiwzam',
+        grade: '2'
     },
     {   category: 'General',
         question: 'German automobile manufacturer',
         response: 'Audi',
-        choices: 'oplrnuizvw'
+        choices: 'oplrnuizvw',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Japanese automobile manufacturer',
         response: 'Toyota',
-        choices: 'misubzkh'
+        choices: 'misubzkh',
+        grade: '2'
     },
     {   category: 'General',
         question: 'French automobile manufacturer',
         response: 'Renault',
-        choices: 'pegcinv'
+        choices: 'pegcinv',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Italian automobile manufacturer',
         response: 'AlfaRomeo',
-        choices: 'rrtis'
+        choices: 'rrtis',
+        grade: '2'
     },
     {   category: 'General',
         question: 'British automobile manufacturer',
         response: 'LandRover',
-        choices: 'rgbet'
+        choices: 'rgbet',
+        grade: '2'
     },
     {   category: 'General',
         question: 'American automobile manufacturer',
         response: 'Ford',
-        choices: 'Dgejplambw'
+        choices: 'Dgejplambw',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Emperor of the French in the early 1800s',
         response: 'Napoleon',
-        choices: 'bnrtaq'
+        choices: 'bnrtaq',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Fortified complex at the heart of Moscow referred to as the government of the Russian Federation',
         response: 'Kremlin',
-        choices: 'cvpouzw'
+        choices: 'cvpouzw',
+        grade: '2'
     },
     {   category: 'General',
         question: 'A widespread of an infectious disease',
         response: 'Epidemic',
-        choices: 'sklubj'
+        choices: 'sklubj',
+        grade: '2'
     },
     {   category: 'General',
         question: '1000 kilograms',
         response: 'Ton',
-        choices: 'grkialzwmce'
+        choices: 'grkialzwmce',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Unit of frequency equal to one cycle per second',
         response: 'Hertz',
-        choices: 'wajoulyfd'
+        choices: 'wajoulyfd',
+        grade: '2'
     },
     {   category: 'General',
         question: 'A high level educational institution in which students study for degrees and academic research',
         response: 'University',
-        choices: 'cllg'
+        choices: 'cllg',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Marvel superhero who got his superpowers from an insect',
         response: 'Spiderman',
-        choices: 'btufr'
+        choices: 'btufr',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Unit of measure used in oil industry',
         response: 'Barrel',
-        choices: 'cmetnoix'
+        choices: 'cmetnoix',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Bright green precious stone',
         response: 'Emerald',
-        choices: 'ioncryx'
+        choices: 'ioncryx',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Precious stone considered the hardest naturally occurring substance',
         response: 'Diamond',
-        choices: 'erwpiuf'
+        choices: 'erwpiuf',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Analgesic and narcotic drug used medicinally to relieve pain',
         response: 'Morphine',
-        choices: 'xtsyzu'
+        choices: 'xtsyzu',
+        grade: '2'
     },
     {   category: 'General',
         question: 'A gland in the body that secretes insulin into the blood',
         response: 'Pancreas',
-        choices: 'xtsyzu'
+        choices: 'xtsyzu',
+        grade: '2'
     },
     {   category: 'General',
         question: 'The headquarters of the United States Department of Defense',
         response: 'Pentagon',
-        choices: 'whusie'
+        choices: 'whusie',
+        grade: '2'
     },
     {   category: 'General',
         question: 'In which state is The Pentagon located ?',
         response: 'Virginia',
-        choices: 'azoewy'
+        choices: 'azoewy',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Organization of the Petroleum Exporting Countries',
         response: 'OPEC',
-        choices: 'sefhmzwiub'
+        choices: 'sefhmzwiub',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Process that involves rearrangement of the molecular or ionic structure of a substance is called ___ reaction',
         response: 'Chemical',
-        choices: 'python'
+        choices: 'python',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Name of the Academy Awards for artistic and technical merit in the American film industry',
         response: 'Oscars',
-        choices: 'emmyblgf'
+        choices: 'emmyblgf',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Inventor of a system of reading and writing used by the blind',
         response: 'Braille',
-        choices: 'xvogufp'
+        choices: 'xvogufp',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Hottest planet in our solar system',
         response: 'Venus',
-        choices: 'Marscrypt'
+        choices: 'Marscrypt',
+        grade: '2'
     },
     {   category: 'General',
         question: 'System for transmitting messages from a distance along a wire',
         response: 'Telegraph',
-        choices: 'twmob'
+        choices: 'twmob',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Famous historical novel by Victor Hugo',
         response: 'Miserables',
-        choices: 'gupy'
+        choices: 'gupy',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Sight - Sound - Smell - Taste - Touch',
         response: 'Senses',
-        choices: 'cthigopz'
+        choices: 'cthigopz',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Seeds from which chocolate is made',
         response: 'Cocoa',
-        choices: 'pitmjreuw'
+        choices: 'pitmjreuw',
+        grade: '2'
     },
     {   category: 'General',
         question: 'What was the name of the sword in the stone according to king Arthur\'s legend ',
         response: 'Excalibur',
-        choices: 'pomad'
+        choices: 'pomad',
+        grade: '2'
     },
     {   category: 'General',
         question: 'North Atlantic Treaty Organization',
         response: 'NATO',
-        choices: 'ydbpgojcxe'
+        choices: 'ydbpgojcxe',
+        grade: '2'
     },
     {   category: 'General',
         question: 'The use of chopsticks originated in what country',
         response: 'China',
-        choices: 'Japnvietm'
+        choices: 'Japnvietm',
+        grade: '2'
     },
     {   category: 'General',
         question: 'The United Kingdom\'s withdrawal from the European Union is commonly known as ___',
         response: 'Brexit',
-        choices: 'plagvqum'
+        choices: 'plagvqum',
+        grade: '2'
     },
     {   category: 'General',
         question: 'The slogan "Impossible is nothing" was created for which company ?',
         response: 'Adidas',
-        choices: 'nkeferrx'
+        choices: 'nkeferrx',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Unit to measure temperature besides Fahrenheit',
         response: 'Celsius',
-        choices: 'avogewz'
+        choices: 'avogewz',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Who discovered gravity ?',
         response: 'Newton',
-        choices: 'davicigl'
+        choices: 'davicigl',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Who demonstrated air pressure ?',
         response: 'Pascal',
-        choices: 'davicigl'
+        choices: 'davicigl',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Name of the first satellite that was launched into space in 1957',
         response: 'Sputnik',
-        choices: 'apollox'
+        choices: 'apollox',
+        grade: '2'
     },
     {   category: 'General',
         question: 'About 70% of the human body is ___',
         response: 'Water',
-        choices: 'bloodizkf'
+        choices: 'bloodizkf',
+        grade: '2'
     },
     {   category: 'General',
         question: 'The first atomic bomb ever used in war-time was dropped on what city',
         response: 'Hiroshima',
-        choices: 'nagak'
+        choices: 'nagak',
+        grade: '2'
     },
     {   category: 'General',
         question: 'The second atomic bomb ever used in war-time was dropped on what city',
         response: 'Nagasaki',
-        choices: 'hiromz'
+        choices: 'hiromz',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Most popular digital currency',
         response: 'Bitcoin',
-        choices: 'dolareu'
+        choices: 'dolareu',
+        grade: '2'
     },
     {   category: 'General',
         question: 'The first man to set foot on the moon',
         response: 'Armstrong',
-        choices: 'gaiyu'
+        choices: 'gaiyu',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Dynamite inventor',
         response: 'Nobel',
-        choices: 'pjudilwve'
+        choices: 'pjudilwve',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Carrying genetic information in the form of genes',
         response: 'Chromosome',
-        choices: 'adni'
+        choices: 'adni',
+        grade: '2'
     },
     {   category: 'General',
         question: 'The envelope of gases surrounding the earth or another planet',
         response: 'Atmosphere',
-        choices: 'gnix'
+        choices: 'gnix',
+        grade: '2'
     },
     {   category: 'General',
         question: 'One of the primary colors',
         response: 'Red',
-        choices: 'pbluckwhige'
+        choices: 'pbluckwhige',
+        grade: '2'
     },
     {   category: 'General',
         question: 'One of the primary colors',
         response: 'Blue',
-        choices: 'aylowrdgrn'
+        choices: 'aylowrdgrn',
+        grade: '2'
     },
     {   category: 'General',
         question: 'One of the primary colors',
         response: 'Green',
-        choices: 'fblurdyow'
+        choices: 'fblurdyow',
+        grade: '2'
     },
     {   category: 'General',
         question: 'What color do we get by mixing red and yellow ?',
         response: 'Orange',
-        choices: 'puplevit'
+        choices: 'puplevit',
+        grade: '2'
     },
     {   category: 'General',
         question: 'What color do we get by mixing black and white ?',
         response: 'Gray',
-        choices: 'nblackwhit'
+        choices: 'nblackwhit',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Surgeon who performed the world\'s first human-to-human heart transplant',
         response: 'Barnard',
-        choices: 'hofemkz'
+        choices: 'hofemkz',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Financial district of lower Manhattan in New York City',
         response: 'WallStreet',
-        choices: 'gfhi'
+        choices: 'gfhi',
+        grade: '2'
     },
     {   category: 'General',
         question: 'One of Shakespeare\'s most famous plays',
         response: 'Hamlet',
-        choices: 'jkfdogsx'
+        choices: 'jkfdogsx',
+        grade: '2'
     },
     {   category: 'General',
         question: 'The human body has 206 of them',
         response: 'Bones',
-        choices: 'matrychwi'
+        choices: 'matrychwi',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Dark volcanic rock',
         response: 'Basalt',
-        choices: 'opruybsn'
+        choices: 'opruybsn',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Famous german composer and pianist',
         response: 'Beethoven',
-        choices: 'claps'
+        choices: 'claps',
+        grade: '2'
     },
     {   category: 'General',
         question: 'Continuous pain in the head',
         response: 'Headache',
-        choices: 'migrix'
+        choices: 'migrix',
+        grade: '2'
     },
 
 
@@ -962,27 +1145,32 @@ words = [
     {   category: 'History',
         question: 'In 1867 the United States purchased Alaska from ___',
         response: 'Russia',
-        choices: 'canadmxo'
+        choices: 'canadmxo',
+        grade: '2'
     },
     {   category: 'History',
         question: 'Who was the Prime Minister of Italy during World War II',
         response: 'Mussolini',
-        choices: 'tlerb'
+        choices: 'tlerb',
+        grade: '2'
     },
     {   category: 'History',
         question: 'Argentine Marxist revolutionary. A major figure of the Cuban Revolution',
         response: 'Guevara',
-        choices: 'chnstox'
+        choices: 'chnstox',
+        grade: '2'
     },
     {   category: 'History',
         question: 'South African revolutionary and political leader',
         response: 'Mandela',
-        choices: 'wsonchp'
+        choices: 'wsonchp',
+        grade: '2'
     },
     {   category: 'History',
         question: 'Famous ship that sank in 1912',
         response: 'Titanic',
-        choices: 'polbrvw'
+        choices: 'polbrvw',
+        grade: '2'
     },
 
 
@@ -990,584 +1178,700 @@ words = [
     {   category: 'Vocabulary',
         question: 'Smart and intelligent',
         response: 'Clever',
-        choices: 'moasqdgb'
+        choices: 'moasqdgb',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Borrowing money from someone',
         response: 'Loan',
-        choices: 'tkeigxmpuy'
+        choices: 'tkeigxmpuy',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Widely known person',
         response: 'Famous',
-        choices: 'elbykcmb'
+        choices: 'elbykcmb',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Son of a king',
         response: 'Prince',
-        choices: 'sskaipon'
+        choices: 'sskaipon',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Something you do that nobody was expecting',
         response: 'Surprise',
-        choices: 'blowpr'
+        choices: 'blowpr',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Another name for a cell phone',
         response: 'Mobile',
-        choices: 'smartgsk'
+        choices: 'smartgsk',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Used as a greeting or to begin a telephone conversation',
         response: 'Hello',
-        choices: 'darchsbyi'
+        choices: 'darchsbyi',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Speaking quietly with a very soft voice',
         response: 'Whisper',
-        choices: 'cknuhgq'
+        choices: 'cknuhgq',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Funny story or anecdote',
         response: 'Joke',
-        choices: 'newsplkgig'
+        choices: 'newsplkgig',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Treat a person or speak to him with disrespect',
         response: 'Insult',
-        choices: 'teaszopm'
+        choices: 'teaszopm',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Large and huge',
         response: 'Enormous',
-        choices: 'vatbig'
+        choices: 'vatbig',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'The floor of a building which is partly or entirely below ground level',
         response: 'Basement',
-        choices: 'cullrf'
+        choices: 'cullrf',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'The opposite of someone cheap',
         response: 'Generous',
-        choices: 'fichyv'
+        choices: 'fichyv',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'A popular traditional story without author usually intended to teach a lesson',
         response: 'Myth',
-        choices: 'legndjplxa'
+        choices: 'legndjplxa',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Military Rank',
         response: 'Colonel',
-        choices: 'litgraf'
+        choices: 'litgraf',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Military Rank',
         response: 'Sergeant',
-        choices: 'xoffig'
+        choices: 'xoffig',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Sound of water washing someone\'s throat or mouth',
         response: 'Gargling',
-        choices: 'dkcmop'
+        choices: 'dkcmop',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'A person who is kidnapped and the kidnapper asks for a ransom for his release',
         response: 'Hostage',
-        choices: 'helvicm'
+        choices: 'helvicm',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Measure unit of land area',
         response: 'Acre',
-        choices: 'kilometrez'
+        choices: 'kilometrez',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Underground railway system in a city',
         response: 'Metro',
-        choices: 'trainbusq'
+        choices: 'trainbusq',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Two babies born at the same time',
         response: 'Twins',
-        choices: 'isblgvuao'
+        choices: 'isblgvuao',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'United States Dollars',
         response: 'USD',
-        choices: 'euroyenzwqf'
+        choices: 'euroyenzwqf',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'A seat that you put on the back of a horse for riding',
         response: 'Saddle',
-        choices: 'ltherbik'
+        choices: 'ltherbik',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'A prolonged state of deep unconsciousness',
         response: 'Coma',
-        choices: 'blakutsihw'
+        choices: 'blakutsihw',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: '24 hours',
         response: 'Day',
-        choices: 'journmthwix'
+        choices: 'journmthwix',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: '365 Days',
         response: 'Year',
-        choices: 'bsxtulgtqu'
+        choices: 'bsxtulgtqu',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: '366 Days',
         response: 'LeapYear',
-        choices: 'jiocmz'
+        choices: 'jiocmz',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: '1000 millions',
         response: 'Billion',
-        choices: 'thndsuw'
+        choices: 'thndsuw',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Firmly held belief or opinion',
         response: 'Conviction',
-        choices: 'erty'
+        choices: 'erty',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Social media and sound of a bird',
         response: 'Twitter',
-        choices: 'facbogk'
+        choices: 'facbogk',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Mandatory',
         response: 'Obligatory',
-        choices: 'pumn'
+        choices: 'pumn',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Another name for enemy',
         response: 'Foe',
-        choices: 'bittradvygk'
+        choices: 'bittradvygk',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Union and pact',
         response: 'Alliance',
-        choices: 'ssotxy'
+        choices: 'ssotxy',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Permanant and everlasting',
         response: 'Eternal',
-        choices: 'dingcot'
+        choices: 'dingcot',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Crying and wailing',
         response: 'Weeping',
-        choices: 'kdflvbu'
+        choices: 'kdflvbu',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Person who is fully grown or developed',
         response: 'Adult',
-        choices: 'womanbigz'
+        choices: 'womanbigz',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Shout of encouragement or joy',
         response: 'Cheer',
-        choices: 'llobstgin'
+        choices: 'llobstgin',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'An establishment providing accommodation and meals for travellers and tourists',
         response: 'Hotel',
-        choices: 'mranchuxf'
+        choices: 'mranchuxf',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Person who buys goods or services from a shop or business',
         response: 'Customer',
-        choices: 'lintfa'
+        choices: 'lintfa',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'What do we call a space filled with too many people ?',
         response: 'Crowded',
-        choices: 'ppultgi'
+        choices: 'ppultgi',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Opposite of Honest',
         response: 'Liar',
-        choices: 'mnabedkgwu'
+        choices: 'mnabedkgwu',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Opposite of Courageous',
         response: 'Coward',
-        choices: 'brvejkwz'
+        choices: 'brvejkwz',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Opposite of Smart',
         response: 'Stupid',
-        choices: 'mbwnhogl'
+        choices: 'mbwnhogl',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Opposite of Closed',
         response: 'Open',
-        choices: 'azrtyupqxv'
+        choices: 'azrtyupqxv',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Opposite of Unlucky',
         response: 'Lucky',
-        choices: 'freeotnta'
+        choices: 'freeotnta',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Opposite of Worst',
         response: 'Best',
-        choices: 'wlagoodnic'
+        choices: 'wlagoodnic',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Opposite of Small',
         response: 'Tall',
-        choices: 'bigsmiquve'
+        choices: 'bigsmiquve',
+        grade: '2'
     },
     /*{   category: 'Vocabulary',
         question: 'Opposite of Abnormal',
         response: 'Normal',
-        choices: 'sipedulj'
+        choices: 'sipedulj',
+        grade: '2'
     },*/
     {   category: 'Vocabulary',
         question: 'Opposite of Union',
         response: 'Division',
-        choices: 'separt'
+        choices: 'separt',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Used to refer to a person',
         response: 'You',
-        choices: 'meaxthyfwak'
+        choices: 'meaxthyfwak',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Feeling or showing confidence in myself',
         response: 'Confident',
-        choices: 'assur'
+        choices: 'assur',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Pulled to fire a gun',
         response: 'Trigger',
-        choices: 'fguowal'
+        choices: 'fguowal',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Someone who won\'t change his opinion despite good arguments or reasons to do so',
         response: 'Stubborn',
-        choices: 'eacish'
+        choices: 'eacish',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Broad piece of metal used as a protection from sword attacks',
         response: 'Shield',
-        choices: 'tepvufjq'
+        choices: 'tepvufjq',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Detest and loathe',
         response: 'Hate',
-        choices: 'jlikgorbuv'
+        choices: 'jlikgorbuv',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Fruit that helped Newton to discover gravity ?',
         response: 'Apple',
-        choices: 'ineorangy'
+        choices: 'ineorangy',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Soft white powdery limestone used to write or draw on boards',
         response: 'Chalk',
-        choices: 'pencixfqu'
+        choices: 'pencixfqu',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'A person who acts on behalf of another in particular celebrities',
         response: 'Agent',
-        choices: 'torybpquf'
+        choices: 'torybpquf',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Used as a polite or respectful way of addressing a man',
         response: 'Sir',
-        choices: 'mstegntlvwc'
+        choices: 'mstegntlvwc',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'A sticky or slimy substance',
         response: 'Goo',
-        choices: 'azertypvbni'
+        choices: 'azertypvbni',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Fixed regular payment typically paid on a monthly basis',
         response: 'Salary',
-        choices: 'wgpourxt'
+        choices: 'wgpourxt',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Tropical tree',
         response: 'Palm',
-        choices: 'wgpourxtbn'
+        choices: 'wgpourxtbn',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Seeing something that isn\'t real',
         response: 'Illusion',
-        choices: 'pxctgf'
+        choices: 'pxctgf',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'The action of promoting and advertising products or services',
         response: 'Marketing',
-        choices: 'plast'
+        choices: 'plast',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Something that can replace something else',
         response: 'Substitute',
-        choices: 'habk'
+        choices: 'habk',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Letters and packages sent by post',
         response: 'Mail',
-        choices: 'gopratshwn'
+        choices: 'gopratshwn',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Needing or ready for sleep',
         response: 'Sleepy',
-        choices: 'kizutnfw'
+        choices: 'kizutnfw',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Paragraph or article in laws and contracts',
         response: 'Clause',
-        choices: 'zivbnghj'
+        choices: 'zivbnghj',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Extreme or irrational fear of something',
         response: 'Phobia',
-        choices: 'zesdcvik'
+        choices: 'zesdcvik',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Large underground vault for burying the dead',
         response: 'Tomb',
-        choices: 'xgraveydsh'
+        choices: 'xgraveydsh',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'The powdery residue left after the burning of a substance',
         response: 'Ash',
-        choices: 'dfireklxypu'
+        choices: 'dfireklxypu',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Static and doing nothing',
         response: 'Idle',
-        choices: 'wzroplmaqu'
+        choices: 'wzroplmaqu',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'A man who has magical powers',
         response: 'Wizard',
-        choices: 'mgclpftb'
+        choices: 'mgclpftb',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'A woman who has magical powers',
         response: 'Witch',
-        choices: 'zebrahoxn'
+        choices: 'zebrahoxn',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'A man trained to fight in an arena in ancient Rome',
         response: 'Gladiator',
-        choices: 'soley'
+        choices: 'soley',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'An elaborate musical composition for full orchestra',
         response: 'Symphony',
-        choices: 'elgafv'
+        choices: 'elgafv',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Plural of Child',
         response: 'Children',
-        choices: 'skidza'
+        choices: 'skidza',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Plural of Foot',
         response: 'Feet',
-        choices: 'lissuragwz'
+        choices: 'lissuragwz',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Plural of  Tooth',
         response: 'Teeth',
-        choices: 'xsziopmbv'
+        choices: 'xsziopmbv',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Plural of Man',
         response: 'Men',
-        choices: 'xsziopmbvrt'
+        choices: 'xsziopmbvrt',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Plural of Mouse',
         response: 'Mice',
-        choices: 'syclarhgov'
+        choices: 'syclarhgov',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Plural of Hill',
         response: 'Hills',
-        choices: 'ayxuojhzk'
+        choices: 'ayxuojhzk',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'The communication of disease from one person to another by close contact',
         response: 'Contagion',
-        choices: 'sklyr'
+        choices: 'sklyr',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Chivalrous and honourable man',
         response: 'Gentleman',
-        choices: 'dsiry'
+        choices: 'dsiry',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Successor of a person who died',
         response: 'Heir',
-        choices: 'dsiryxcpuz'
+        choices: 'dsiryxcpuz',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Light-Emitting Diode',
         response: 'LED',
-        choices: 'typslkhjbnz'
+        choices: 'typslkhjbnz',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Statue or other structure erected to commemorate a famous person',
         response: 'Monument',
-        choices: 'ublxir'
+        choices: 'ublxir',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Collection of precious things wanted by pirates',
         response: 'Treasure',
-        choices: 'zgoldy'
+        choices: 'zgoldy',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Cut down grass with a machine',
         response: 'Mow',
-        choices: 'wingjlaters'
+        choices: 'wingjlaters',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Small opening in a floor allowing access from one area to another',
         response: 'Hatch',
-        choices: 'copyrefix'
+        choices: 'copyrefix',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Lie detector',
         response: 'Polygraph',
-        choices: 'bliks'
+        choices: 'bliks',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Saying something that is not true',
         response: 'Lie',
-        choices: 'xseayjobclf'
+        choices: 'xseayjobclf',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'A court of justice',
         response: 'Tribunal',
-        choices: 'pzokne'
+        choices: 'pzokne',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Person who uses strength to intimidate those who are weaker. More often in school',
         response: 'Bully',
-        choices: 'cassfiedn'
+        choices: 'cassfiedn',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Rapid surprise attack on an enemy by troops or aircraft or other armed forces',
         response: 'Raid',
-        choices: 'ymplontghw'
+        choices: 'ymplontghw',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Underwater missile designed to be fired from a ship or submarine',
         response: 'Torpedo',
-        choices: 'glasyhb'
+        choices: 'glasyhb',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Color of healthy lungs',
         response: 'Pink',
-        choices: 'greybluwht'
+        choices: 'greybluwht',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Said about a person\'s face when he is in shock or sick',
         response: 'Pale',
-        choices: 'mbzrwdhuxz'
+        choices: 'mbzrwdhuxz',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Hard surface of the egg',
         response: 'Shell',
-        choices: 'plasticbi'
+        choices: 'plasticbi',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Strong desire and determination to do or to achieve something',
         response: 'Ambition',
-        choices: 'wusyjr'
+        choices: 'wusyjr',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Animal that is hunted by another for food',
         response: 'Prey',
-        choices: 'mlkjhgfdsq'
+        choices: 'mlkjhgfdsq',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Young child who is just beginning to walk',
         response: 'Toddler',
-        choices: 'kiszuvc'
+        choices: 'kiszuvc',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Artificial hair that you put on the head',
         response: 'Wig',
-        choices: 'clasypowzre'
+        choices: 'clasypowzre',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'Monumental structure built of stone as a royal tomb in ancient Egypt',
         response: 'Pyramid',
-        choices: 'nhusvto'
+        choices: 'nhusvto',
+        grade: '2'
     },
     {   category: 'Vocabulary',
         question: 'The alphabet is composed of consonants and ___',
         response: 'Vowels',
-        choices: 'nhusamot'
+        choices: 'nhusamot',
+        grade: '2'
     },
 
 
     {   category: 'Riddle',
         question: 'Cries without eyes and walks without legs',
         response: 'Cloud',
-        choices: 'blaksmith'
+        choices: 'blaksmith',
+        grade: '2'
     },
     {   category: 'Riddle',
         question: 'Laugh without sound and without opening your mouth',
         response: 'Smile',
-        choices: 'lsdnqfkpe'
+        choices: 'lsdnqfkpe',
+        grade: '2'
     },
     {   category: 'Riddle',
         question: 'Everyone needs it. They generously give it. But rarely take it',
         response: 'Advice',
-        choices: 'lssonhux'
+        choices: 'lssonhux',
+        grade: '2'
     },
     {   category: 'Riddle',
         question: 'Who makes it has no need of it. Who buys it has no use for it. Who uses it can\'t see it',
         response: 'Coffin',
-        choices: 'wpejakrt'
+        choices: 'wpejakrt',
+        grade: '2'
     },
     {   category: 'Riddle',
         question: 'Feed me and I live. Give me a drink and I die',
         response: 'Fire',
-        choices: 'qubagglsmt'
+        choices: 'qubagglsmt',
+        grade: '2'
     },
     {   category: 'Riddle',
         question: 'Take off my skin\nI won\'t cry but you will',
         response: 'Onion',
-        choices: 'aplemyzdx'
+        choices: 'aplemyzdx',
+        grade: '2'
     },
     {   category: 'Riddle',
         question: 'What invention lets you look right through a wall ?',
         response: 'Window',
-        choices: 'glassytx'
+        choices: 'glassytx',
+        grade: '2'
     },
     {   category: 'Riddle',
         question: 'What is always coming but never arrives?',
         response: 'Tomorrow',
-        choices: 'fuesvp'
+        choices: 'fuesvp',
+        grade: '2'
     },
     {   category: 'Riddle',
         question: 'What has to be broken before you can use it',
         response: 'Egg',
-        choices: 'wsbihancoum'
+        choices: 'wsbihancoum',
+        grade: '2'
     },
     {   category: 'Riddle',
         question: 'They come out at night and are lost in the day',
         response: 'Stars',
-        choices: 'pubemnivx'
+        choices: 'pubemnivx',
+        grade: '2'
     },
     {   category: 'Riddle',
         question: 'If you threw a white stone into the Red Sea what would it become?',
         response: 'Wet',
-        choices: 'frdpoqublyg'
+        choices: 'frdpoqublyg',
+        grade: '2'
     },
 
 
@@ -1575,152 +1879,182 @@ words = [
     {   category: 'Geography',
         question: 'Capital of an european country',
         response: 'Berlin',
-        choices: 'mdapsguz'
+        choices: 'mdapsguz',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Scandinavian country',
         response: 'Norway',
-        choices: 'sdmrklcd'
+        choices: 'sdmrklcd',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Africa; Europe; North America; South America; Australia; Antarctica and ___',
         response: 'Asia',
-        choices: 'oceanypltx'
+        choices: 'oceanypltx',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'The highest mountain range in North America',
         response: 'Rocky',
-        choices: 'csadeslph'
+        choices: 'csadeslph',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'One of the four main directions',
         response: 'West',
-        choices: 'northsupfi'
+        choices: 'northsupfi',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'One of the four main directions',
         response: 'South',
-        choices: 'nrtswepfi'
+        choices: 'nrtswepfi',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Where is based the UNESCO headquarters ?',
         response: 'Paris',
-        choices: 'belnzuchw'
+        choices: 'belnzuchw',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Country between Germany and Ukraine',
         response: 'Poland',
-        choices: 'frcetugh'
+        choices: 'frcetugh',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Largest lake in South America on the border of Bolivia and Peru',
         response: 'Titicaca',
-        choices: 'pesduj'
+        choices: 'pesduj',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Smallest country in the European Union',
         response: 'Malta',
-        choices: 'vicndorlh'
+        choices: 'vicndorlh',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Capital of Germany',
         response: 'Berlin',
-        choices: 'pasmuchn'
+        choices: 'pasmuchn',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Capital of China',
         response: 'Beijing',
-        choices: 'pktoysl'
+        choices: 'pktoysl',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Capital of Algeria',
         response: 'Algiers',
-        choices: 'cosrntb'
+        choices: 'cosrntb',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Capital of South Africa',
         response: 'Capetown',
-        choices: 'bgzmix'
+        choices: 'bgzmix',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Capital of Peru',
         response: 'Lima',
-        choices: 'chlebrzsqg'
+        choices: 'chlebrzsqg',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Capital of Japan',
         response: 'Tokyo',
-        choices: 'seulpinwf'
+        choices: 'seulpinwf',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Capital of Italy',
         response: 'Rome',
-        choices: 'inzfuttdgc'
+        choices: 'inzfuttdgc',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Capital of Canada',
         response: 'Ottawa',
-        choices: 'nrioqube'
+        choices: 'nrioqube',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Capital of Switzerland',
         response: 'Bern',
-        choices: 'zuichaslvg'
+        choices: 'zuichaslvg',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Capital of Brazil',
         response: 'Brasilia',
-        choices: 'jneorz'
+        choices: 'jneorz',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'The Biggest Mediterranean island',
         response: 'Sicily',
-        choices: 'palmadrn'
+        choices: 'palmadrn',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'The Largest island on earth',
         response: 'Greenland',
-        choices: 'icsuf'
+        choices: 'icsuf',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'What city in Australia has the highest population',
         response: 'Sydney',
-        choices: 'twzaljak'
+        choices: 'twzaljak',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Largest ocean on planet earth',
         response: 'Pacific',
-        choices: 'atlntmd'
+        choices: 'atlntmd',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'The Grand Canyon is located in which US state ?',
         response: 'Arizona',
-        choices: 'vegiuth'
+        choices: 'vegiuth',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Largest country in North America',
         response: 'Canada',
-        choices: 'bgmexior'
+        choices: 'bgmexior',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Arab country in Africa',
         response: 'Algeria',
-        choices: 'mroctns'
+        choices: 'mroctns',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Diagrammatic representation of planet earth or area of land',
         response: 'Map',
-        choices: 'brenchvlody'
+        choices: 'brenchvlody',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'Largest state in the US',
         response: 'Alaska',
-        choices: 'texcifon'
+        choices: 'texcifon',
+        grade: '2'
     },
     {   category: 'Geography',
         question: 'The most famous country for hot springs',
         response: 'NewZealand',
-        choices: 'indo'
+        choices: 'indo',
+        grade: '2'
     },
 
 
@@ -1728,483 +2062,604 @@ words = [
     {   category: 'Famous For',
         question: 'Pizza\nPasta\nFerrari\nPisa Tower',
         response: 'Italy',
-        choices: 'mntorczpf'
+        choices: 'mntorczpf',
+        grade: '2'
     },
     /*{   category: 'Famous For',
         question: 'Louvre\nMiserables\nZidane\nEiffel Tower',
         response: 'France',
-        choices: 'piagtqum'
+        choices: 'piagtqum',
+        grade: '2'
     },*/
     {   category: 'Famous For',
         question: 'Alhambra\nFlamenco\nIbiza\nTomatina',
         response: 'Spain',
-        choices: 'ortultkyv'
+        choices: 'ortultkyv',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Fuji\nKimono\nMangas\nSushi',
         response: 'Japan',
-        choices: 'korchidvt'
+        choices: 'korchidvt',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Pamukkale\nTroy\nBlue Mosque\nGallipoli',
         response: 'Turkey',
-        choices: 'grcabnsi'
+        choices: 'grcabnsi',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Basketball\nHawaii\nLincoln\nMcDonald',
         response: 'USA',
-        choices: 'ntuemlkdqfo'
+        choices: 'ntuemlkdqfo',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Cricket\nBollywood\nTaj Mahal\nSpicy food',
         response: 'India',
-        choices: 'pkstyurex'
+        choices: 'pkstyurex',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Tacos\nMariachis\nAvocado\nMayan Pyramids',
         response: 'Mexico',
-        choices: 'brazlsid'
+        choices: 'brazlsid',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Mission Impossible\nTop Gun\nThe Last Samurai\nJack Reacher',
         response: 'TomCruise',
-        choices: 'dprak'
+        choices: 'dprak',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Titanic\nAviator\nInception\nThe Revenant',
         response: 'Dicaprio',
-        choices: 'rsejkw'
+        choices: 'rsejkw',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Pirates of The Caribbean\nDonnie Brasco\nAlice in Wonderland\nSweeney Todd',
         response: 'depp',
-        choices: 'johnadlwis'
+        choices: 'johnadlwis',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Serpico\nThe Godfather\nScarface\nHeat',
         response: 'Alpacino',
-        choices: 'mrksdv'
+        choices: 'mrksdv',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Gladiator\nA Beautiful Mind\nThe Insider\nAmerican Gangster',
         response: 'Crowe',
-        choices: 'spiywzulf'
+        choices: 'spiywzulf',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Forrest Gump\nSaving Private Ryan\nCast Away\nDa Vinci Code',
         response: 'TomHanks',
-        choices: 'alwuis'
+        choices: 'alwuis',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Braveheart\nThe Patriot\nMad Max\nLethal Weapon',
         response: 'MelGibson',
-        choices: 'fqukc'
+        choices: 'fqukc',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Fight Club\nTroy\nMr. & Mrs. Smith\nWorld War Z',
         response: 'BradPitt',
-        choices: 'mlzwfg'
+        choices: 'mlzwfg',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Goodfellas\nThe Godfather 2\nShowtime\nThe Fan',
         response: 'DeNiro',
-        choices: 'bvxjaudl'
+        choices: 'bvxjaudl',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Batman Begins\nThe Dark Knight\nLeon\nAir Force One',
         response: 'GaryOldman',
-        choices: 'belj'
+        choices: 'belj',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Men In Black\nI Am Legend\nBad Boys\nI Robot',
         response: 'WillSmith',
-        choices: 'bkcad'
+        choices: 'bkcad',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Seven\nThe Shawshank Redemption\nBatman Begins\nNow You See Me',
         response: 'Freeman',
-        choices: 'ghjuxpw'
+        choices: 'ghjuxpw',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Pulp Fiction\nAvengers\nThe Negotiator\nCoach Carter',
         response: 'Jackson',
-        choices: 'simleyb'
+        choices: 'simleyb',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: 'Taken\nBatman Begins\nStar Wars: Episode I\nThe Grey',
         response: 'Neeson',
-        choices: 'lvpacmwf'
+        choices: 'lvpacmwf',
+        grade: '2'
     },
     {   category: 'Famous For',
         question: '007',
         response: 'JamesBond',
-        choices: 'pkerz'
+        choices: 'pkerz',
+        grade: '2'
     },
 
 
     {   category: 'Math',
         question: '5-5',
         response: 'Zero',
-        choices: 'funineblyt'
+        choices: 'funineblyt',
+        grade: '2'
     },
     {   category: 'Math',
         question: '1x1',
         response: 'One',
-        choices: 'pamslkdhgty'
+        choices: 'pamslkdhgty',
+        grade: '2'
     },
     {   category: 'Math',
         question: '1+1',
         response: 'Two',
-        choices: 'fgneoazwrty'
+        choices: 'fgneoazwrty',
+        grade: '2'
     },
     {   category: 'Math',
         question: '580 - 577',
         response: 'Three',
-        choices: 'fourivght'
+        choices: 'fourivght',
+        grade: '2'
     },
     {   category: 'Math',
         question: '108 ÷ 27',
         response: 'Four',
-        choices: 'bivxshjetp'
+        choices: 'bivxshjetp',
+        grade: '2'
     },
     {   category: 'Math',
         question: '2+3',
         response: 'Five',
-        choices: 'ourkhtnzwb'
+        choices: 'ourkhtnzwb',
+        grade: '2'
     },
     {   category: 'Math',
         question: '10125 - 10119',
         response: 'Six',
-        choices: 'tmpolnbvcxw'
+        choices: 'tmpolnbvcxw',
+        grade: '2'
     },
     {   category: 'Math',
         question: '10-3',
         response: 'Seven',
-        choices: 'dfghjklty'
+        choices: 'dfghjklty',
+        grade: '2'
     },
     {   category: 'Math',
         question: '10-3',
         response: 'Seven',
-        choices: 'dfghjklty'
+        choices: 'dfghjklty',
+        grade: '2'
     },
     {   category: 'Math',
         question: '736 ÷ 92',
         response: 'Eight',
-        choices: 'cvbnazert'
+        choices: 'cvbnazert',
+        grade: '2'
     },
     {   category: 'Math',
         question: '360 ÷ 40',
         response: 'Nine',
-        choices: 'tksjgnfonb'
+        choices: 'tksjgnfonb',
+        grade: '2'
     },
     {   category: 'Math',
         question: '5x2',
         response: 'Ten',
-        choices: 'apoghniwxsz'
+        choices: 'apoghniwxsz',
+        grade: '2'
     },
     {   category: 'Math',
         question: '1000 meter',
         response: 'Kilometer',
-        choices: 'iugrs'
+        choices: 'iugrs',
+        grade: '2'
     },
 
     {   category: 'Photo',
         question: '1',
         response: 'Parrot',
-        choices: 'bidspquk'
+        choices: 'bidspquk',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '2',
         response: 'Ladybug',
-        choices: 'winsect'
+        choices: 'winsect',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '3',
         response: 'Crab',
-        choices: 'blimfgoyes'
+        choices: 'blimfgoyes',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '4',
         response: 'Jellyfish',
-        choices: 'mdsav'
+        choices: 'mdsav',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '5',
         response: 'Dough',
-        choices: 'braidzpmx'
+        choices: 'braidzpmx',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '6',
         response: 'Saxophone',
-        choices: 'cvbnj'
+        choices: 'cvbnj',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '7',
         response: 'Hockey',
-        choices: 'ballscrt'
+        choices: 'ballscrt',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '8',
         response: 'Balloon',
-        choices: 'jvletxn'
+        choices: 'jvletxn',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '9',
         response: 'Mouse',
-        choices: 'keybonlwz'
+        choices: 'keybonlwz',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '10',
         response: 'IceCream',
-        choices: 'upiolf'
+        choices: 'upiolf',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '11',
         response: 'Orca',
-        choices: 'sharkdlpht'
+        choices: 'sharkdlpht',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '12',
         response: 'Balloon',
-        choices: 'ckendyz'
+        choices: 'ckendyz',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '13',
         response: 'Microscope',
-        choices: 'hvta'
+        choices: 'hvta',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '14',
         response: 'Muffin',
-        choices: 'pcakegtu'
+        choices: 'pcakegtu',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '15',
         response: 'Glasses',
-        choices: 'nwedrxp'
+        choices: 'nwedrxp',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '16',
         response: 'Burger',
-        choices: 'klipzsgn'
+        choices: 'klipzsgn',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '17',
         response: 'Bike',
-        choices: 'dmotrcycle'
+        choices: 'dmotrcycle',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '18',
         response: 'Peacock',
-        choices: 'rrtheng'
+        choices: 'rrtheng',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '19',
         response: 'Fireworks',
-        choices: 'hangr'
+        choices: 'hangr',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '20',
         response: 'Satellite',
-        choices: 'peckz'
+        choices: 'peckz',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '21',
         response: 'Raccoon',
-        choices: 'tbeverd'
+        choices: 'tbeverd',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '22',
         response: 'Rope',
-        choices: 'quklsjdfie'
+        choices: 'quklsjdfie',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '23',
         response: 'Bulb',
-        choices: 'lightndery'
+        choices: 'lightndery',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '24',
         response: 'Chain',
-        choices: 'plstkfrag'
+        choices: 'plstkfrag',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '25',
         response: 'Dumbbells',
-        choices: 'wight'
+        choices: 'wight',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '26',
         response: 'Fork',
-        choices: 'sponiethzx'
+        choices: 'sponiethzx',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '27',
         response: 'Rope',
-        choices: 'quklsjdfie'
+        choices: 'quklsjdfie',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '28',
         response: 'Scissors',
-        choices: 'bladej'
+        choices: 'bladej',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '29',
         response: 'Strings',
-        choices: 'heanbvo'
+        choices: 'heanbvo',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '30',
         response: 'Armor',
-        choices: 'shieldxzy'
+        choices: 'shieldxzy',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '31',
         response: 'Owl',
-        choices: 'birdplastom'
+        choices: 'birdplastom',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '32',
         response: 'Sushi',
-        choices: 'platefish'
+        choices: 'platefish',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '33',
         response: 'Basketball',
-        choices: 'socr'
+        choices: 'socr',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '34',
         response: 'Knife',
-        choices: 'blatzuwmq'
+        choices: 'blatzuwmq',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '35',
         response: 'Pancakes',
-        choices: 'wrtyni'
+        choices: 'wrtyni',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '36',
         response: 'Bridge',
-        choices: 'penclfge'
+        choices: 'penclfge',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '37',
         response: 'Rose',
-        choices: 'flwrlillyz'
+        choices: 'flwrlillyz',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '38',
         response: 'Pizza',
-        choices: 'astelmind'
+        choices: 'astelmind',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '39',
         response: 'Drone',
-        choices: 'flyairpne'
+        choices: 'flyairpne',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '40',
         response: 'Fan',
-        choices: 'motorengine'
+        choices: 'motorengine',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '41',
         response: 'Compass',
-        choices: 'bwtchyz'
+        choices: 'bwtchyz',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '42',
         response: 'Bottle',
-        choices: 'ckealstg'
+        choices: 'ckealstg',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '43',
         response: 'Phone',
-        choices: 'lastbvmrt'
+        choices: 'lastbvmrt',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '44',
         response: 'Violin',
-        choices: 'gutaroxs'
+        choices: 'gutaroxs',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '45',
         response: 'Snake',
-        choices: 'cobramamb'
+        choices: 'cobramamb',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '46',
         response: 'Computer',
-        choices: 'kyboad'
+        choices: 'kyboad',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '47',
         response: 'Garlic',
-        choices: 'onionrkw'
+        choices: 'onionrkw',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '48',
         response: 'Seal',
-        choices: 'poiuytrbzc'
+        choices: 'poiuytrbzc',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '49',
         response: 'Zebra',
-        choices: 'sheplongy'
+        choices: 'sheplongy',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '50',
         response: 'Moon',
-        choices: 'planetarth'
+        choices: 'planetarth',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '51',
         response: 'Tomato',
-        choices: 'elnciruv'
+        choices: 'elnciruv',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '52',
         response: 'Jewels',
-        choices: 'trurnkgi'
+        choices: 'trurnkgi',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '53',
         response: 'Radio',
-        choices: 'tlkwapcdf'
+        choices: 'tlkwapcdf',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '54',
         response: 'Guitar',
-        choices: 'violinsm'
+        choices: 'violinsm',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '55',
         response: 'Camera',
-        choices: 'lnsphgqu'
+        choices: 'lnsphgqu',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '56',
         response: 'Coins',
-        choices: 'monetrabl'
+        choices: 'monetrabl',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '57',
         response: 'Pills',
-        choices: 'medicazof'
+        choices: 'medicazof',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '58',
         response: 'Books',
-        choices: 'livrepage'
+        choices: 'livrepage',
+        grade: '2'
     },
     {   category: 'Photo',
         question: '59',
         response: 'Nenuphar',
-        choices: 'lackyw'
+        choices: 'lackyw',
+        grade: '2'
     }
 
 ];
+
+
+// school_words = [
+//     {   subject: 'Science',
+//         question: 'What to drink to keep you awake',
+//         response: 'Coffee',
+//         choices: 'mpliyuwn',
+//         grade: '2',
+//         grade: '2'
+//     },
+
+//     {   subject: 'Science',
+//         question: 'Opposite of Abnormal',
+//         response: 'Normal',
+//         choices: 'sipedulj',
+//         grade: '2',
+//         grade: '2'
+//     },
+
+//     {   subject: 'Science',
+//         question: 'King of the jungle',
+//         response: 'Lion',
+//         choices: 'goyrebwxtm',
+//         grade: '3'
+//     }
+// ];
 
 /*
 function check_words(){
