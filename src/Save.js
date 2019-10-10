@@ -148,7 +148,7 @@ function save_words(vect_words) {
             if (i < words.length - 1)str += ","
         }
     }
-    console.log(str);
+    // console.log(str);
     Save_setItem("WitchCrossward_words", str);
 }
 
